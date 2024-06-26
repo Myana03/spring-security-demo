@@ -14,3 +14,4 @@ This project demonstrates a simple web application with Spring Security integrat
 - Spring Boot
 - Spring Security
 - MySql
+Note : head to main branch for code
